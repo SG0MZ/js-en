@@ -1,0 +1,33 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 2 oct 2023, 11:47:34
+    Author     : sagomezmartinez
+*/
+
+.test
+{
+    color: red;
+}
+
+#toTopButton
+{
+    background-color: teal;
+    width: 120px;
+    height: 30px;
+    padding: 10px;
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    cursor: pointer;
+    text-align: center;
+    display: none;
+ 
+    
+}
+#toTopButton:hover
+{
+    color: red;
+}
